@@ -38,4 +38,5 @@ public class StudentTest {
         fer.addGrade(80);
         assertEquals(90, fer.getGradeAverage(), 0);
     }
+//    comment
 }
